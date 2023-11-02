@@ -1,45 +1,45 @@
 ---
 # Display name
-title: 吳健雄
+title: 劉奕廷
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Yee Ting Lau
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Yee Ting
+last_name: Lau
 
 # Status emoji
-status:
+status:College Student
   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: 將會是代數工作者
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: LuDong University
+    url: http://ldu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Mathematics and Machine Learning
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 social:
   - icon: send
     icon_pack: wc
-    link: 'mailto:your-email@example.com'
+    link: liu15689745299@163.com
   - icon: twitter
     icon_pack: wc
-    link: https://twitter.com/wowchemy
+    link: https://twitter.com/liytng309136874
     label: Follow me on Twitter
   - icon: github
     icon_pack: wc
-    link: https://github.com/gcushen
+    link: https://github.com/DeanJean2
   - icon: linkedin
     icon_pack: wc
     link: https://www.linkedin.com/
