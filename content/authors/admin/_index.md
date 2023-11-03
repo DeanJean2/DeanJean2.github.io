@@ -32,7 +32,7 @@ bio: 我的研究興趣主要在代數學和深度學習
 social:
   - icon: send
     icon_pack: wc
-    link: 2532508521@qq.com
+    link: gaonacarratalayt3928@gmail.com
   - icon: twitter
     icon_pack: wc
     link: https://twitter.com/liytng309136874
