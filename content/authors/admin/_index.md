@@ -40,12 +40,12 @@ social:
   - icon: github
     icon_pack: wc
     link: https://github.com/DeanJean2
-  - icon: bilibili
-    icon_pack: bilibili-svgrepo-com.svg
+  - icon: bilibili-svgrepo-com.svg
+    icon_pack: wc
     link: https://space.bilibili.com/89581838?spm_id_from=333.1007.0.0
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
-  - icon: 知乎
-    icon_pack: zhihu-svgrepo-com.svg
+  - icon: zhihu-svgrepo-com.svg
+    icon_pack: wc
     link: https://www.zhihu.com/people/wu-dian-gong-yuan-41
   - icon: rss
     icon_pack: wc
