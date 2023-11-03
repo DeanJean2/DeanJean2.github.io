@@ -25,14 +25,14 @@ organizations:
     url: http://ldu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Mathematics and Machine Learning
+bio: 我的研究興趣主要在代數學和深度學習
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 social:
   - icon: send
     icon_pack: wc
-    link: liu15689745299@163.com
+    link: 2532508521@qq.com
   - icon: twitter
     icon_pack: wc
     link: https://twitter.com/liytng309136874
@@ -40,13 +40,13 @@ social:
   - icon: github
     icon_pack: wc
     link: https://github.com/DeanJean2
-  - icon: linkedin
+  - icon: bilibili
     icon_pack: wc
-    link: https://www.linkedin.com/
+    link: https://space.bilibili.com/89581838?spm_id_from=333.1007.0.0
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
-  - icon: cv
+  - icon: 知乎
     icon_pack: wc
-    link: uploads/resume.pdf
+    link: https://www.zhihu.com/people/wu-dian-gong-yuan-41
   - icon: rss
     icon_pack: wc
     link: ./post/index.xml
@@ -55,7 +55,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+我是劉奕廷，一個未來想要搞代數，擔憂自己沒智商又給自己留了深度學習後路的人。我對哲學、精神分析和藝術也有著相當的愛好。我將會在這個主頁上發表我的學習時的思考和感想。
 {style="text-align: justify; font-size: 0.8em;"}
