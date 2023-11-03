@@ -40,7 +40,7 @@ social:
   - icon: github
     icon_pack: wc
     link: https://github.com/DeanJean2
-  - icon: bilibili-svgrepo-com.svg
+  - icon: bilibili
     icon_pack: wc
     link: https://space.bilibili.com/89581838?spm_id_from=333.1007.0.0
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
