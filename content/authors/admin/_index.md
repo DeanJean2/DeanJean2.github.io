@@ -10,7 +10,7 @@ first_name: Yee Ting
 last_name: Lau
 
 # Status emoji
-status: College Student
+status: 
   icon: ☕️
 
 # Is this the primary user of the site?
