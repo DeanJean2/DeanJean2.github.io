@@ -29,11 +29,11 @@ date: 2023-11-05
 import sklearn
 ~~~
 
-'''
+
 1. $e \in H$
 2. $x, y \in H \Rightarrow x * y \in H$
 3. $x \in H \Rightarrow x^{-1} \in H$
-'''
+
 
 [我的知乎主頁](https://www.zhihu.com/people/wu-dian-gong-yuan-41 "你廷哥的知乎主頁")
 
