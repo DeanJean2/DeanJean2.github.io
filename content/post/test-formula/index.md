@@ -41,3 +41,6 @@ Proof. $-f\left(e_G\right) \circ e_H=f\left(e_G\right)=f\left(e_G * e_G\right)=f
 
 [我的知乎主頁](https://www.zhihu.com/people/wu-dian-gong-yuan-41 "你廷哥的知乎主頁")
 
+![一些圖片](/assets/img/1(5).jpg)
+![一些圖片](/assets/img/1(7).jpg)
+![一些圖片](/assets/img/1(13).jpg)
