@@ -30,6 +30,7 @@ import sklearn
 ~~~
 
 '''math
+
 Proposition. Let $(G, *)$ and $(H, \circ)$ be two groups and $f: G \rightarrow H$ a homomorphism. Let $e_G \in G$ and $e_H \in H$ be the respective identities. Then
 - $f\left(e_G\right)=e_H$.
 - $f\left(x^{-1}\right)=(f(x))^{-1}, \forall x \in G$
